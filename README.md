@@ -1,4 +1,4 @@
-# User-Management_PHP_MySQL
+# User-Management_System
 A production-ready User Management System built using PHP, MySQL, JavaScript, HTML, and CSS, following clean architecture and security best practices. This project demonstrates real-world CRUD operations, AJAX-based interactions, and secure backend handling.<br/>
 
 🚀 Features<br/>
