@@ -1,6 +1,8 @@
 # User-Management_System
 A production-ready User Management System built using PHP, MySQL, JavaScript, HTML, and CSS, following clean architecture and security best practices. This project demonstrates real-world CRUD operations, AJAX-based interactions, and secure backend handling.<br/>
 
+## LIVE LINK: https://php-crud-2026.infinityfreeapp.com/<br/>
+
 🚀 Features<br/>
 ✅ Add, edit, and delete users<br/>
 🔐 Secure password handling (hashing & verification)<br/>
