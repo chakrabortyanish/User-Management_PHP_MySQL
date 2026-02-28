@@ -42,5 +42,3 @@ Secure database interaction<br/>
 Proper folder structure<br/>
 Production-level validation<br/>
 
-⭐ Show Your Support<br/>
-If you like this project, please ⭐ star the repository — it motivates me to build more real-world projects!
